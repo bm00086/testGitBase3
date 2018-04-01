@@ -6,6 +6,7 @@
 
 int main()
 {
+	int K0=0;
     return 0;
 }
 
