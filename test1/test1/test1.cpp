@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-
+#include"classA.h"
 
 int main()
 {
