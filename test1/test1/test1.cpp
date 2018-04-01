@@ -2,8 +2,8 @@
 //
 
 #include "stdafx.h"
-#include"classA.h"
-
+#include "classA.h"
+#include "classB.h"
 int main()
 {
 	int K0=0;
